@@ -12,7 +12,6 @@ defineProps<Props>();
 </script>
 
 <style scoped lang="sass">
-//@import '../../variables'
 
 .wrapper
   height: 100%

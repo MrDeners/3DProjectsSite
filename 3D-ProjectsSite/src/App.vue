@@ -7,8 +7,4 @@ RouterView
 </script>
 
 <style lang="sass">
-//@import 'assets/styles/variables'
-.admin
-  color: $accent-color
-
 </style>
