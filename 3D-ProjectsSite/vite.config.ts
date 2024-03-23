@@ -8,7 +8,7 @@ export default defineConfig({
   css: {
     preprocessorOptions: {
       sass: {
-        additionalData: `@import "./src/assets/styles/_variables.sass"`
+        additionalData: `@import "./src/assets/styles/_variables.sass"\n` + `@import "./src/assets/styles/_mixins.sass"`
       }
     }
   }
