@@ -7,4 +7,6 @@ RouterView
 </script>
 
 <style lang="sass">
+body
+  background-color: $main-color
 </style>
