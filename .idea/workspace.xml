@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed63351d-a345-4070-a848-1647c78f12a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseProjectCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseSectionName.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/widgets/BaseCardsView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/layouts/BaseSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/assets/images/housetest.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/assets/images/text.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/assets/styles/_variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/assets/styles/_variables.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseButton.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseProjectCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/shared/BaseProjectCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/components/widgets/BaseCardsView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/components/widgets/BaseCardsView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/layouts/BaseSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/layouts/BaseSection.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3D-ProjectsSite/src/pages/AdminView/AdminView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3D-ProjectsSite/src/pages/AdminView/AdminView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +133,8 @@
       <workItem from="1711208299044" duration="2397000" />
       <workItem from="1711215388070" duration="323000" />
       <workItem from="1711215716339" duration="7665000" />
-      <workItem from="1711385236831" duration="21084000" />
+      <workItem from="1711385236831" duration="35015000" />
+      <workItem from="1711628172643" duration="5177000" />
     </task>
     <servers />
   </component>
