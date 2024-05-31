@@ -14,6 +14,8 @@ defineProps({
 const backgroundColor = '$light-wrapper-color';
 
 document.documentElement.style.setProperty('--background-color', backgroundColor);
+
+
 </script>
 
 <style scoped lang="sass">
